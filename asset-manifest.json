@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mutual-Funds-Mood-Index/static/css/main.ad48e054.css",
-    "main.js": "/Mutual-Funds-Mood-Index/static/js/main.b4041f32.js",
+    "main.js": "/Mutual-Funds-Mood-Index/static/js/main.ff7c71f4.js",
     "static/js/787.bea8ba50.chunk.js": "/Mutual-Funds-Mood-Index/static/js/787.bea8ba50.chunk.js",
     "index.html": "/Mutual-Funds-Mood-Index/index.html",
     "main.ad48e054.css.map": "/Mutual-Funds-Mood-Index/static/css/main.ad48e054.css.map",
-    "main.b4041f32.js.map": "/Mutual-Funds-Mood-Index/static/js/main.b4041f32.js.map",
+    "main.ff7c71f4.js.map": "/Mutual-Funds-Mood-Index/static/js/main.ff7c71f4.js.map",
     "787.bea8ba50.chunk.js.map": "/Mutual-Funds-Mood-Index/static/js/787.bea8ba50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad48e054.css",
-    "static/js/main.b4041f32.js"
+    "static/js/main.ff7c71f4.js"
   ]
 }
